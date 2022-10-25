@@ -15,4 +15,5 @@
 <h1>📃 Trajetória Profissional</h1>
 <p> 
 👨‍🎓 Mecatrônica Industrial </br>
+<img src="img/ntu.jpg" width="50"> NTU Software Technology </br>
 </p>
