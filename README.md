@@ -23,7 +23,7 @@
   <li>Interações para crianças no tratamento de hemodiálise</li>
 </ul>
 
-<img src="img/aceleradev.png" width="18"> Itaú AceleraDev C# (2020)
+<img src="img/aceleradev.png" width="18"> Itaú Bootcamp AceleraDev (2020)
 <ul>
   <li>mais de 2 mil candidatos, para 30 selecionados</li>
   <li>Aprendizagem com foco em C#</li>
