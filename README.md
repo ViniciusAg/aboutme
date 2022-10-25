@@ -15,11 +15,17 @@
 <h1>📃 Trajetória Profissional</h1>
 <p> 
 👨‍🎓 Mecatrônica Industrial (2018)</br>
-<img src="img/ntu.jpg" width="15"> NTU Software Technology (2018) </br>
+
+<img src="img/ntu.jpg" width="15"> NTU Software Technology (2018)
 <ul>
   <li>Bolsista FAPESP</li>
   <li>Desenvolvimento de Software</li>
   <li>Interações para crianças no tratamento de hemodiálise</li>
 </ul>
-<img src="img/aceleradev.png" width="15"> Itaú AceleraDev C# </br>
+
+<img src="img/aceleradev.png" width="18"> Itaú AceleraDev C# (2020)
+<ul>
+  <li>mais de 2 mil candidatos, para 30 selecionados</li>
+  <li>Aprendizagem com foco em C#</li>
+</ul>
 </p>
