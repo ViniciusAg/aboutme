@@ -28,4 +28,6 @@
   <li>mais de 2 mil candidatos, para 30 selecionados</li>
   <li>Aprendizagem com foco em C#</li>
 </ul>
+
+<img src="img/f360.png" width="18"> F360° - Finanças (2020)
 </p>
