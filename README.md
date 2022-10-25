@@ -34,4 +34,6 @@
   <li>Criação da plataforma para gestão contábil</li>
   <li>Criação de automações de processos (RPA) para otimizar o tempo operacional</li>
 </ul>
+
+<img src="img/itau.png" width="25"> Itaú Unibanco (2021)
 </p>
