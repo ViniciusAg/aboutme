@@ -21,4 +21,5 @@
   <li>Desenvolvimento de Software</li>
   <li>Interações para crianças no tratamento de hemodiálise</li>
 </ul>
+<img src="img/aceleradev.png" width="15"> Itaú AceleraDev C# </br>
 </p>
