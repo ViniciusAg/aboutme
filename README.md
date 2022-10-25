@@ -29,5 +29,9 @@
   <li>Aprendizagem com foco em C#</li>
 </ul>
 
-<img src="img/f360.png" width="18"> F360° - Finanças (2020)
+<img src="img/f360.png" width="50"> F360° - Finanças (2020)
+<ul>
+  <li>Criação da plataforma para gestão contábil</li>
+  <li>Criação de automações de processos (RPA) para otimizar o tempo operacional</li>
+</ul>
 </p>
